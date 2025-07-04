@@ -6,7 +6,7 @@
   </h2>
 
   <div class="flex items-center gap-5">
-    <p class="text-zinc-800/90 dark:text-zinc-50/70">
+    <p class="text-zinc-800/90 dark:text-zinc-50/70 text-center">
       Host, Content Creator, Voice Over, Modeling, Talent for TVC, Series or FTV
     </p>
   </div>

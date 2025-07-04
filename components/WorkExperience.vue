@@ -5,7 +5,7 @@
     Hosting
   </h2>
 
-  <div class="grid grid-cols-3 gap-4 w-full flex justify-center">
+  <div class="grid rid-cols-1 md:grid-cols-3 gap-4 w-full flex justify-center">
     <div class="flex flex-col">
       <h2 class="text-lg md:text-lg text-zinc-800/90 dark:text-zinc-50/70 mb-3">
         Content Creator
