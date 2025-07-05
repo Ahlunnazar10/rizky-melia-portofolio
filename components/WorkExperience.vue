@@ -2,7 +2,7 @@
   <h2
     class="font-sans font-light text-xl md:text-xl text-zinc-800/90 dark:text-zinc-50/70 mt-6 mb-3"
   >
-    Hosting
+    Work Exprerience
   </h2>
 
   <div class="grid rid-cols-1 md:grid-cols-3 gap-4 w-full flex justify-center">
@@ -13,20 +13,18 @@
 
       <ul class="list-disc list-inside">
         <li class="text-zinc-800/90 dark:text-zinc-50/70">
-          TikTok Olahbolacom (1,4 M)
+          Tiktok olahbola followers (1,6 M)
         </li>
         <li class="text-zinc-800/90 dark:text-zinc-50/70">
-          Tiktok RizkyMelia (183k)
+          Tiktok Rizky Melia (222K)
         </li>
-        <li class="text-zinc-800/90 dark:text-zinc-50/70">
-          Instagram Rizky_Melia (161k)
-        </li>
+        <li class="text-zinc-800/90 dark:text-zinc-50/70">Instagram (194K)</li>
       </ul>
     </div>
 
     <div class="flex flex-col">
       <h2 class="text-lg md:text-lg text-zinc-800/90 dark:text-zinc-50/70 mb-3">
-        NOBAR (Nonton Bareng)
+        Hosting Nobar (Nonton Bareng)
       </h2>
 
       <ul class="list-disc list-inside">
@@ -157,9 +155,11 @@
       </h2>
 
       <ul class="list-disc list-inside">
+        <li class="text-zinc-800/90 dark:text-zinc-50/70">Shin Tae Yong</li>
         <li class="text-zinc-800/90 dark:text-zinc-50/70">Bima Sakti</li>
         <li class="text-zinc-800/90 dark:text-zinc-50/70">Indra Sjafri</li>
         <li class="text-zinc-800/90 dark:text-zinc-50/70">Paul Lambert</li>
+        <li class="text-zinc-800/90 dark:text-zinc-50/70">Nova Arianto</li>
       </ul>
     </div>
   </div>

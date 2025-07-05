@@ -29,7 +29,7 @@ export default defineAppConfig({
       "img-5.jpg",
       "img-6.png",
       "img-7.jpg",
-      "img-8.png",
+      "img-8.jpg",
     ],
   },
 });
